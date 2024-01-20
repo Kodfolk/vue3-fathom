@@ -40,7 +40,7 @@ this.$fathom.blockTrackingForMe();
 // Check if tracking is enabled for user
 this.$fathom.isTrackingEnabled();
 ```
-See [fathom-client](https://github.com/derrickreimer/fathom-client?tab=readme-ov-file#api-reference) for more information regarding the API or take a look in the [code](lib/main.js) for available methods.
+See [fathom-client](https://github.com/derrickreimer/fathom-client?tab=readme-ov-file#api-reference) for more information regarding the API or take a look in the [code](https://github.com/Kodfolk/vue3-fathom/blob/main/lib/main.js) for available methods.
 
 ## Contributing
 Feel free to open an issue or submit a pull request if you find a bug or want to add a feature.

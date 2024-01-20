@@ -1,0 +1,31 @@
+{
+    "name": "@kodfolk/vue3-fathom",
+    "version": "1.0.0",
+    "description": "Fathom Analytics plugin for Vue 3.",
+    "author": "Pierre Pavlov",
+    "license": "MIT",
+    "type": "module",
+    "module": "./dist/vue-fathom.js",
+    "main": "./dist/vue-fathom.umd.cjs",
+    "files": [
+        "dist"
+    ],
+    "exports": {
+        ".": {
+            "import": "./dist/vue-fathom.js",
+            "require": "./dist/vue-fathom.umd.cjs"
+        }
+    },
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "vite": "^5.0.8",
+        "vue": "^3.4.14"
+    },
+    "dependencies": {
+        "fathom-client": "^3.6.0"
+    }
+}

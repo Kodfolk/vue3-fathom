@@ -5,6 +5,10 @@
     "author": "Pierre Pavlov",
     "license": "MIT",
     "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kodfolk/vue3-fathom.git"
+    },
     "module": "./dist/vue-fathom.js",
     "main": "./dist/vue-fathom.umd.cjs",
     "files": [

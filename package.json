@@ -1,6 +1,6 @@
 {
     "name": "@kodfolk/vue3-fathom",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "description": "Fathom Analytics plugin for Vue 3.",
     "author": "Pierre Pavlov",
     "license": "MIT",
